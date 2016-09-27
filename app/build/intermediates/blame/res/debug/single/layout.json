@@ -1,6 +1,14 @@
 [
     {
-        "merged": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/src/main/res/layout/main.xml"
+        "merged": "/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/build/intermediates/res/merged/debug/layout/itemfrag.xml",
+        "source": "/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/src/main/res/layout/itemfrag.xml"
+    },
+    {
+        "merged": "/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/build/intermediates/res/merged/debug/layout/listfrag.xml",
+        "source": "/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/src/main/res/layout/listfrag.xml"
+    },
+    {
+        "merged": "/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/src/main/res/layout/main.xml"
     }
 ]
