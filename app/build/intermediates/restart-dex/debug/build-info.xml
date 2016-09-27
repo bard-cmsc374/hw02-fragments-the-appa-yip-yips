@@ -4,25 +4,21 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="683997685905"
+    timestamp="1638701944588"
     token="562743436239996320" >
 
     <task
         name="javac"
-        duration="51" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="10" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1" />
-
-    <artifact
-        location="/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build timestamp="267287941101" >
         <artifact
@@ -34,5 +30,6 @@
             location="/home/cs374/Downloads/hw02-fragments-the-appa-yip-yips/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
             type="DEX" />
     </build>
+    <build timestamp="1638701944588" />
 
 </instant-run>
