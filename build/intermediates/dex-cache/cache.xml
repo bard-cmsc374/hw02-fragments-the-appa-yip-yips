@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_3032ce424d3ba317810f1b47f69208f2f917c2e6.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_fedb2fcb3a818eb4fcc6c619c9305f75ee4fc595.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_4f67f1f50f88fd2d1e46dac20c7d899510a86cf3.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_42a61f02fad34425c090e9d4307aa1b67cfc8c10.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_bae843c0743231f1d95cc65caf52a958ea704cd1.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_12c3c046adcc54cb9cecaad05e285af6e3dc1621.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9a0aa20389f6a4eea62c6fc01318837880d75061.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e1b473e101f63b13701f0f330278a9652747cdbd.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e7811f154221d2208f96cf1e1886754bef7d3bf7.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_7fc0bf652c0cd5bce10cb60c46e7f84c3b2709af.jar" />
+    </item>
+    <item
+        jar="/home/sven/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_d22c65f7caeac2171844729ab5d75a92fab508fe.jar" />
+    </item>
+    <item
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-the-appa-yip-yips/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_f455ffc65f9100598e6bfaa65b18c01a7a21a282.jar" />
+    </item>
+
+</items>

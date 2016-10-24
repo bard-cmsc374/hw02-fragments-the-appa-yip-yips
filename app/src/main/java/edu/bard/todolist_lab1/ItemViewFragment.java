@@ -27,7 +27,7 @@ public class ItemViewFragment extends Fragment {
 
     private EditText mEditText; // enter todo item
     private Button mItemButton; // add the item to the list
-    public theListener mCallback;
+    public theListener mCallback;  //XX why is this public??
 
     public interface theListener {
         public void itemToSend(String s);
